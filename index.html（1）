@@ -1,3 +1,5 @@
+<html>
+<head>
 <td width="23%" align="left">北京时间： 
 <script language="JavaScript" type="text/javascript">
   var day="";
@@ -27,3 +29,5 @@
   else if(myweekday == 6)
   weekday=" 星期六 ";
   document.write(year+"年"+mymonth+"月"+myday+"日 "+weekday);</script></td>
+</head>
+</html>
