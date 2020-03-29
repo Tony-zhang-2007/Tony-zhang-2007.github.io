@@ -1,8 +1,4 @@
 <html>
-<style>
-  <style type =“ text / css”>
-  <title>Tony的博客<title>
-</style>
 <head>
   <center><h1>Tony的博客</h1></center>
   <h2>你好，欢迎来到Tony的博客~</h2>
