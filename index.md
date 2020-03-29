@@ -7,7 +7,4 @@
 <footer>
   <center>
     <h5>Copyright © 2020-Tony,Reserved.
-    </center>
     </h5>
-  </footer>
-</html>
